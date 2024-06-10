@@ -1,13 +1,22 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Monolith Gantry Plates [EXPERIMENTAL]
+# sheet metal Monolith Gantry [EXPERIMENTAL]
 
-![1](Images/Monolith_plates.png)
+![1](Images/sheet_metal_V2_6mm_2WD.PNG)
 
 ## What's this?
-Experimental plates SOON TM...
+It's the experimental sheet metal version of the Monolith gantry that brings R1 features such as live shafts, increased tensioner range, and the optional zero protrusion mode.
 
-If you've got any questions you can find me on Discord ***@CloakedWayne***
+### Pros:
+- no load-bearing printed parts in the XY motion system
+- low cost
+- high performance
+- public CAD
+
+### Cons:
+- significantly higher complexity compared to the printed
+- lots of post-processing
+- harder to align
 
 <br/><br/><br/><br/>
 This work is licensed under a
