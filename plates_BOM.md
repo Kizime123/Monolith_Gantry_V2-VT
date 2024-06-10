@@ -1,3 +1,0 @@
-# BOM
-See CAD
-
