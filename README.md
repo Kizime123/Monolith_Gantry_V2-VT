@@ -23,6 +23,8 @@ It's the experimental sheet metal version of the Monolith gantry that brings R1 
 
 <br/>
 
+![2](Images/plates.PNG)
+
 > [!NOTE]
 > **If you have questions or want to stay more up to date with Monolith, consider joining the dedicated Discord server.**
 >
