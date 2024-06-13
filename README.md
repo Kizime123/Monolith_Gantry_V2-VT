@@ -2,7 +2,7 @@
 
 # Laser-cut Monolith Gantry [EXPERIMENTAL]
 > [!IMPORTANT]
-> **If you're looking for a CNC kit experience, this probably isn't for you. But that is also coming at a later this year.**
+> **If you're looking for a CNC kit experience, this probably isn't for you. But that is also coming later this year.**
 
 ![1](Images/sheet_metal_V2_6mm_2WD.PNG)
 
