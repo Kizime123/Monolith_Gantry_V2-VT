@@ -2,7 +2,7 @@
 
 # Laser-cut Monolith Gantry [EXPERIMENTAL]
 > [!IMPORTANT]
-> **If you're looking for a CNC kit experience, this probably isn't for you. But fear not, that experience is also coming later this year.<br/><br/>Laser-cut Monolith is a significantly more complex build than what the average Voron user is used to. Please read the available documentation carefully to evaluate the required patience and skill levels before proceeding. Thank You!**
+> **If you're looking for a CNC kit experience, this probably isn't for you. But that experience is also coming later this year.<br/><br/>Laser-cut Monolith is a significantly more complex build than what the average Voron user is used to. Please read the available documentation carefully to evaluate the required patience and skill levels before proceeding. Thank You!**
 
 ![1](Images/sheet_metal_V2_6mm_2WD.PNG)
 
