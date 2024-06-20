@@ -2,12 +2,12 @@
 
 # Laser-cut Monolith Gantry [EXPERIMENTAL]
 > [!IMPORTANT]
-> **If you're looking for a CNC kit experience, this probably isn't for you. But that experience is also coming later this year.<br/><br/>Laser-cut Monolith is a significantly more complex build than what the average Voron user is used to. Please read the available documentation carefully to evaluate the required patience and skill levels before proceeding. Thank You!**
+> **If you're looking for a CNC kit experience, this probably isn't for you. But that experience is also coming later this year.<br/><br/>Laser-cut Monolith is a significantly more difficult build than what the average Voron user is used to. Please read the available documentation carefully to evaluate the required patience and skill levels before proceeding. Thank You!**
 
 ![1](Images/sheet_metal_V2_6mm_2WD.PNG)
 
 ## What's this?
-It's the experimental sheet metal version of the Monolith gantry that brings R1 features such as live shafts, increased tensioner range, and the optional zero protrusion mode.
+It's the *experimental* sheet metal version of the Monolith gantry that brings R1 features such as live shafts, increased tensioner range, (and the optional zero protrusion mode). This design sacrifices a lot on the user-friendliness side of things to only use laser-cut plates.
 
 ### Pros:
 - no load-bearing printed parts in the XY motion system
