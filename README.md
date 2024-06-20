@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Laser-cut Monolith Gantry [EXPERIMENTAL]
+# [EXPERIMENTAL] Laser-cut Monolith Gantry
 > [!IMPORTANT]
 > **If you're looking for a CNC kit experience, this probably isn't for you. But that experience is also coming later this year.<br/><br/>Laser-cut Monolith is a significantly more difficult build than what the average Voron user is used to. Please read the available documentation carefully to evaluate the required patience and skill levels before proceeding. Thank You!**
 
