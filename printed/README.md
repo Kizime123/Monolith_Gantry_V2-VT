@@ -1,21 +1,19 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # [R1 PRE-RELEASE] Printed Monolith Gantry
+> [!IMPORTANT]
+> **XY joints only for now!**
+
+![1](Images/R1_XY_1.png)
 
 ## What's this?
 It's the *pre-release* printed version of the Monolith gantry that brings R1 features such as live shafts, increased tensioner range, (and the optional zero protrusion mode).
 
-### [BOM/Sourcing Guide - Google Sheets - SOON™ ](https://docs.google.com/spreadsheets/d/1RIai7CNpbDsj-eTeLl5jht6svjdHanomWHTbR4IC2LE/edit?usp=sharing)
-
-## Changelog
-
-### v682 - July 12, 2024
-- initial upload
-- only includes the live-shaft XY joints
-
 <br/>
 
-![1](Images/R1_XY_1.png)
+![2](Images/R1_XY_2.png)
+
+### [BOM/Sourcing Guide - Google Sheets - SOON™ ](https://docs.google.com/spreadsheets/d/1RIai7CNpbDsj-eTeLl5jht6svjdHanomWHTbR4IC2LE/edit?usp=sharing)
 
 <br/>
 
@@ -27,10 +25,6 @@ It's the *pre-release* printed version of the Monolith gantry that brings R1 fea
 > **If you would like to see more of this and other projects in the future, consider supporting me on Ko-fi.**
 >
 > [![Support me on Ko-fi](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
-
-<br/>
-
-![2](Images/R1_XY_2.png)
 
 <br/>
 
