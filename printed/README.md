@@ -2,6 +2,9 @@
 
 # [R1 PRE-RELEASE] Printed Monolith Gantry
 
+## What's this?
+It's the *pre-release* printed version of the Monolith gantry that brings R1 features such as live shafts, increased tensioner range, (and the optional zero protrusion mode).
+
 ### [BOM/Sourcing Guide - Google Sheets - SOON™ ](https://docs.google.com/spreadsheets/d/1RIai7CNpbDsj-eTeLl5jht6svjdHanomWHTbR4IC2LE/edit?usp=sharing)
 
 ## Changelog
@@ -9,6 +12,8 @@
 ### v682 - July 12, 2024
 - initial upload
 - only includes the live-shaft XY joints
+
+<br/>
 
 ![1](Images/R1_XY_1.png)
 
