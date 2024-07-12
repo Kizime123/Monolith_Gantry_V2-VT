@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# [PRE-RELEASE] R1 Printed Monolith Gantry
+# [R1 PRE-RELEASE] Printed Monolith Gantry
 
 ### [BOM/Sourcing Guide - Google Sheets - SOON™ ](https://docs.google.com/spreadsheets/d/1RIai7CNpbDsj-eTeLl5jht6svjdHanomWHTbR4IC2LE/edit?usp=sharing)
 
