@@ -25,6 +25,7 @@ It's the *pre-release* sheet metal version of the Monolith gantry that brings R1
 <br/>
 
 ![2](Images/plates.PNG)
+
 ### [BOM/Sourcing Guide - Google Sheets ](https://docs.google.com/spreadsheets/d/1RIai7CNpbDsj-eTeLl5jht6svjdHanomWHTbR4IC2LE/edit?usp=sharing)
 
 <br/>
