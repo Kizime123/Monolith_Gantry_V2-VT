@@ -4,7 +4,7 @@
 > [!IMPORTANT]
 > **XY joints and rear motor mounts only for now!**
 
-![1](Images/R1_XY_1.png)
+![1](Images/R1_rear_mount.png)
 
 ## What's this?
 It's the *pre-release* printed version of the Monolith gantry that brings R1 features such as live shafts, increased tensioner range, and the optional zero protrusion mode.
@@ -16,7 +16,7 @@ It's the *pre-release* printed version of the Monolith gantry that brings R1 fea
 
 ### [BOM/Sourcing Guide - Google Sheets - SOON™ ](https://docs.google.com/spreadsheets/d/1RIai7CNpbDsj-eTeLl5jht6svjdHanomWHTbR4IC2LE/edit?usp=sharing)
 
-![3](Images/R1_rear_mount.png)
+![3](Images/R1_XY_1.png)
 
 <br/>
 
